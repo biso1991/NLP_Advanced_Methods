@@ -1,4 +1,4 @@
 # -NLP-Methods :
   ## Text{
-  generation classification  clustering Summarization Sentiment Analytic NGrams Lexicon glove_LDA_NMF_autocorrection
+  generation classification  clustering Summarization Sentiment_Analytic NGrams Lexicon glove 'LDA' 'NMF' autocorrection
   }
